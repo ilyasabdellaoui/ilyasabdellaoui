@@ -1,4 +1,4 @@
-# Ilyas0421
+# Ilyas ABDELLAOUI
 
 ### Hi there 👋
 
@@ -38,5 +38,5 @@ Here are a few of my notable projects:
 
 ## 💬 Contact me
 
-Feel free to reach out to me on [Twitter](https://twitter.com/Ilyas0421) or send me an email at [Email](ilyas.abdellaoui21@gmail.com) for any inquiries or just to chat!
+Feel free to reach out to me on [Twitter](https://twitter.com/ilyas_abdell) or send me an email for any inquiries or just to chat!
 
