@@ -15,15 +15,26 @@
 
 <br />
 
-I'm Ilyas, a software engineering student and researcher based in [City], [Country]. I'm passionate about solving real-world problems with technology and constantly learning and improving my skills. In my free time, I enjoy working on personal projects and contributing to open source projects.
+I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionate about solving real-world problems with technology and constantly learning and improving my skills. In my free time, I enjoy working on personal projects and contributing to open source projects.
 
 Here are a few of my notable projects:
 
 ## 🔥 Projects
 
 - **Project 1**: A web application that allows users to [Description]. [Link to project]
-- **Project 2**: A machine learning model that predicts [Description]. [Link to project]
-- **Project 3**: A mobile app that helps users track their [Description]. [Link to project]
+
+## 📊 Statistics
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=ilyas0421&count_private=true&show_icons=true&theme=light)
+
+## 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact)
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7" >
+
 
 ## 💬 Contact me
 
