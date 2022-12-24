@@ -53,9 +53,9 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
 </p>
 <br/>
-<h2> 📊 Github Stats </h2> 
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact&theme=tokyonight" />
-</a>-->
+
+<h2> 📊 Github Stats </h2>
+
 <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas0421&theme=tokyonight" alt="ilyas0421"/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ilyas0421&show_icons=true&theme=tokyonight"/>
 <img width="400px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&show_icons=true&theme=tokyonight/>
