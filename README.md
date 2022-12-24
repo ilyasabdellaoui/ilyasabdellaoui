@@ -25,7 +25,7 @@ Here are a few of my notable projects:
 
 ## 📊 Statistics
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=ilyas0421&count_private=true&show_icons=true&theme=light)
+![Statistics](https://github-readme-stats.vercel.app/api?username=ilyas0421&count_private=true&show_icons=true&theme=dark)
 
 ## 🏆 Top Languages
 
