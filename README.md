@@ -29,7 +29,7 @@ Here are a few of my notable projects:
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact&theme=radical)
 
 ## 🏆 Trophies
 
