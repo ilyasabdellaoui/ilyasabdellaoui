@@ -59,8 +59,8 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 </a>-->
 <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas0421&theme=tokyonight" alt="ilyas0421"/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ilyas0421&show_icons=true&theme=tokyonight"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7&theme=react" >
-<img width="400px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact&theme=react/>
+<img width="400px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact&theme=tokyonight/>
+<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7&theme=tokyonight" >
 
 
 [[## 📊 Statistics
@@ -73,7 +73,7 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7&theme=react" >](url)](url)
+<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7&theme=react" >
 
 ## 💬 Contact me
 Feel free to reach out to me on [Twitter](https://twitter.com/ilyas_abdell) or send me an email at [![Gmail Badge](https://img.shields.io/badge/-ilyas.abdellaoui@gmail.com-c14438?style=flat&labelColor=db3236&logo=gmail&logoColor=white)](mailto:ilyas.abdellaoui@gmail.com) for any inquiries or just to chat!
