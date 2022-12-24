@@ -61,12 +61,14 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas0421&theme=tokyonight" alt="ilyas0421"/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ilyas0421&show_icons=true&theme=tokyonight"/>
 </p>
-<div style="text-align: center;">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact&theme=tokyonight" />
-</div>
-<div style="text-align: center;">
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7&theme=tokyonight" />
-</div>
+</p>
 
 <br/>
 
