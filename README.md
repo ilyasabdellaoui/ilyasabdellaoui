@@ -64,9 +64,10 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 </p>
 
 ## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7"  align="center" />
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7"  align="center"/>
+</p>
+	
 <br/>
 
 ## 💬 Contact me
