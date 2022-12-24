@@ -54,7 +54,7 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 </p>
 <br/>
 <h2> 📊 Github Stats </h2> 
-<!--<a href="https://github.com/ilyas0421/github-readme-stats">
+<!--
 	<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact&theme=tokyonight" />
 </a>-->
 <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas0421&theme=tokyonight" alt="Elcaveman"/>
