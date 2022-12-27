@@ -12,7 +12,7 @@
     <img alt="Twitter: ILYAS ABDELLAOUI" src="https://img.shields.io/badge/-ILYAS%20ABDELLAOUI-e84393?style=flat&labelColor=e84393&logo=twitter&logoColor=white" target="_blank" />
   </a>
   <br />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ilyas0421.ilyas0421" alt="Visitor Badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ilyasabdellaoui.ilyasabdellaoui" alt="Visitor Badge" />
 </div>
 
 <br />
@@ -38,14 +38,14 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 
 <p align="center">
 
-<img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyas0421&theme=tokyonight" alt="ilyas0421"/>
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ilyas0421&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas0421&layout=compact&theme=tokyonight"/>
+<img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasabdellaoui&theme=tokyonight" alt="ilyasabdellaoui"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ilyasabdellaoui&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasabdellaoui&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🏆 Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ilyas0421&theme=nord&column=7"  align="center"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ilyasabdellaoui&theme=nord&column=7"  align="center"/>
 </p>
 	
 <br/>
