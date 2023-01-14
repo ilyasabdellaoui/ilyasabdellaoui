@@ -25,8 +25,8 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 	<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="55" height="55"/>
 	<!--Python-->
 	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-	<!--C/C++-->
-	<img src="https://www.vectorlogo.zone/logos/python/C/C++-icon.svg" alt="C/C++" width="55" height="55"/>
+	<!--C-->
+	<img src="https://www.vectorlogo.zone/logos/python/C-icon.svg" alt="C" width="55" height="55"/>
 	<!--Django-->
 	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="55" height="55"/>
 	<!--Git-->
