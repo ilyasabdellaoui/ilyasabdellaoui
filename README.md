@@ -34,7 +34,7 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 	<!--HTML-->
 	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
 	<!--CSS-->
-	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" width="55" height="55"/>
+	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55"/>
 	
 </p>
 <br/>
