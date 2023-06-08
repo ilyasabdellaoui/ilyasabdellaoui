@@ -26,11 +26,11 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 	<!--Java-->
 	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
 	<!--PHP-->
-	<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="CSS" width="55" height="55"/>
+	<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php" width="55" height="55"/>
 	<!--Django-->
 	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="55" height="55"/>
 	<!--Flask-->
-	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="CSS" width="55" height="55"/>
+	<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="55" height="55"/>
 	<!--HTML-->
 	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
 	<!--CSS-->
