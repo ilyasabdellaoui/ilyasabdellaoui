@@ -21,23 +21,26 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 
 ## Skills
 <p align="center">
-      	<!--JS-->
-	<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="55" height="55"/>
 	<!--Python-->
 	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
 	<!--Java-->
 	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
+	<!--PHP-->
+	<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="CSS" width="55" height="55"/>
 	<!--Django-->
 	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="55" height="55"/>
-	<!--Git-->
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-	<!--Linux-->
-	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
+	<!--Flask-->
+	<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="CSS" width="55" height="55"/>
 	<!--HTML-->
 	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
 	<!--CSS-->
 	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55"/>
-	
+      	<!--JS-->
+	<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="55" height="55"/>
+	<!--Git-->
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+	<!--Linux-->
+	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
 </p>
 <br/>
 
