@@ -30,7 +30,7 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 	<!--Django-->
 	<img src="https://icon-library.com/images/django-icon/django-icon-17.jpg" alt="Django" width="55" height="55"/>
 	<!--Flask-->
-	<img src="https://i.ibb.co/m84k9N3/pngegg.png" alt="Flask" width="60" height="55"/>
+	<img src="https://i.ibb.co/m84k9N3/pngegg.png" alt="Flask" width="55" height="60"/>
 	<!--HTML-->
 	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
 	<!--CSS-->
