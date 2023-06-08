@@ -12,7 +12,7 @@
     <img alt="Twitter: ILYAS ABDELLAOUI" src="https://img.shields.io/badge/-ILYAS%20ABDELLAOUI-e84393?style=flat&labelColor=e84393&logo=twitter&logoColor=white" target="_blank" />
   </a>
   <br />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ilyasabdellaoui.ilyasabdellaoui" alt="Visitor Badge" />
+  <img src="https://views-counter.vercel.app/badge?pageId=ilyasabdellaoui%2FViews-Counter" alt="Visitor Badge" />
 </div>
 
 <br />
