@@ -13,6 +13,7 @@
   </a>
   <br />
   <img src="https://views-counter.vercel.app/badge?pageId=ilyasabdellaoui%2FViews-Counter" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=ilyasabdellaoui" alt="Visitor Badge" />
 </div>
 
 <br />
