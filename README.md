@@ -29,9 +29,9 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 	<!--PHP-->
 	<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php" width="55" height="55"/>
 	<!--Django-->
-	<img src="https://icon-library.com/images/django-icon/django-icon-17.jpg" alt="Django" width="55" height="55"/>
+	<img src="https://icon-library.com/images/django-icon/django-icon-17.jpg" alt="Django" width="60" height="60"/>
 	<!--Flask-->
-	<img src="https://i.ibb.co/m84k9N3/pngegg.png" alt="Flask" width="55" height="60"/>
+	<img src="https://svgshare.com/i/veo.svg" alt="Flask" height="60"/>
 	<!--HTML-->
 	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
 	<!--CSS-->
