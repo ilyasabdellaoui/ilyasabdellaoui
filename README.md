@@ -29,9 +29,9 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 	<!--PHP-->
 	<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php" width="55" height="55"/>
 	<!--Django-->
-	<img src="https://icon-library.com/images/django-icon/django-icon-17.jpg" alt="Django" width="55" height="55"/>
+	<img src="https://icon-library.com/images/django-icon/django-icon-17.jpg" alt="Django" width="65" height="55"/>
 	<!--Flask-->
-	<img src="https://i.ibb.co/m84k9N3/pngegg.png" alt="Flask" width="55" height="60"/>
+	<img src="https://i.ibb.co/m84k9N3/pngegg.png" alt="Flask" width="50" height="60"/>
 	<!--HTML-->
 	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
 	<!--CSS-->
@@ -49,8 +49,8 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasabdellaoui&theme=tokyonight" alt="ilyasabdellaoui"/>
-<img align="center"src="https://github-readme-stats.vercel.app/api?username=ilyasabdellaoui&show_icons=true&theme=tokyonight"/>
-<img align="center" width="1000px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasabdellaoui&layout=compact&theme=tokyonight"/>
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=ilyasabdellaoui&show_icons=true&theme=tokyonight"/><br><br>
+<img align="center" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasabdellaoui&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🏆 Trophies
