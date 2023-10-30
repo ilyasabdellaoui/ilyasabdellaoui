@@ -113,5 +113,5 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 <br/>
 
 ## 💬 Contact me
-Feel free to reach out to me on [Twitter](https://twitter.com/ilyas_abdell) or send me an email at [![Gmail Badge](https://img.shields.io/badge/-ilyas.abdellaoui@gmail.com-c14438?style=flat&labelColor=db3236&logo=gmail&logoColor=white)](mailto:ilyas.abdellaoui21@gmail.com) for any inquiries or just to chat!
+Feel free to reach out to me on [Twitter](https://twitter.com/ilyas_abdell) or send me an email at [![Gmail Badge](https://img.shields.io/badge/-ilyas.abdellaoui21@gmail.com-c14438?style=flat&labelColor=db3236&logo=gmail&logoColor=white)](mailto:ilyas.abdellaoui21@gmail.com) for any inquiries or just to chat!
 
