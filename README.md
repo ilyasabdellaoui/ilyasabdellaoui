@@ -102,7 +102,7 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 <p align="center">
 <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasabdellaoui&theme=tokyonight" alt="ilyasabdellaoui"/>
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=ilyasabdellaoui&show_icons=true&theme=tokyonight"/><br><br>
-<img align="center" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasabdellaoui&layout=compact&theme=tokyonight"/>
+<img align="center" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasabdellaoui&layout=compact&theme=tokyonight&langs_count=12"/>
 </p>
 
 ## 🏆 Trophies
