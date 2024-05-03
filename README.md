@@ -22,79 +22,114 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 
 ## Skills
 <p align="center">
-	<!-- C -->
-	<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-	    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="55" height="55" alt="C" />
+<!--Backend-->
+    <!-- Python -->
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55"/>
+    <!-- Java -->
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" height="55"/>
+  	<!-- C -->
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C" />
+    </a>
+    <!-- C++ -->
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" />
+    </a>
+    <!-- Spring -->
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="55" height="55"/>
+      <!-- Django -->
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=django" width="55" height="55" alt="Django" />
+    </a>
+      <!-- FastAPI -->
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" alt="Fast API" />
+    </a>
+    <!-- Flask -->
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask" />
+    </a>
+    <!--Node.js-->
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" />
+<!--Devops-->
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
+    </a>
+    <!-- Gitlab -->
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab" width="55"/>
+    <!-- Git -->
+    <img src="https://skillicons.dev/icons?i=git" alt="GIT" width="55" height="55"/> 
+    <!-- Linux -->
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="55" height="55"/> 
+    <!-- Nginx -->
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="55"/>
+<!--Cloid-->  
+    <!-- AWS -->
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55"/>
+    <!-- GCP -->
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="55"/>
+    <!-- Cloudflare -->
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="55"/>
+<!--Web Dev-->  
+    <!-- HTML -->
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55" height="55"/>
+    <!-- CSS -->
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" height="55"/>
+    <!-- JS -->
+    <img src="https://skillicons.dev/icons?i=javascript" alt="Javascript" width="55" height="55"/>
+    <!-- JQuery -->
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=jquery" width="55" height="55" alt="JQuery" />
+    </a>
+    <!-- Bootstrap -->
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="55" height="55"/>
+    <!-- Tailwind -->
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="55"/>
+    <!-- ReactJS -->
+    <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="55" height="55"/>
+    <!-- Gatsby -->
+    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=gatsby" width="55" height="55" alt="Gatsby" />
+    </a>        
+    <!-- GraphQL -->
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" alt="GraphQL" />
+    </a>
+<!--DBs-->  
+    <!-- Postgres -->
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+    </a>
+    <!-- Redis -->
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55"/>
+    <!-- MongoDB -->
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+  	<!-- Oracle -->
+	  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
+	    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="55" height="55" alt="Oracle" style="background-color: #A9CBD4; border-radius: 13px; width: 55; height: 55;"/>
 	</a>
-	<!-- C++ -->
-	<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-	    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="55" height="55" alt="C++" />
-	</a>
-	<!--Python-->
-	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-	<!--Java-->
-	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
-	<!--PHP-->
-	<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php" width="55" height="55"/>
-	<!-- Flask -->
-	<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-	    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="55" height="55" alt="Flask" />
-	</a>
-	<!-- Django -->
-	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
- 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="55" height="55" alt="Django" />
-   	</a>
-	<!-- FastAPI -->
-	<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" wwidth="55" height="55" alt="Fast API" />
-	</a>
-	<!--HTML-->
-	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
-	<!--CSS-->
-	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55"/>
-	<!--Bootstrap-->
-	<imf src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="55" height="55"/>
-      	<!--JS-->
-	<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="55" height="55"/>
-	<!-- JQuery -->
-	<a href="https://jquery.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="55" height="55" alt="JQuery" />
-	</a>
-	<!-- ReactJS -->
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="55" height="55"/>
-	<!-- Gatsby -->
-	<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="55" height="55" alt="Gatsby" />
-	</a>		
-	<!-- GraphQL -->
-	<a href="https://graphql.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="55" height="55" alt="GraphQL" />
-	</a>
-	<!-- Oracle -->
-	<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-	    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="55" height="55" alt="Oracle" />
-	</a>
-	<!-- MySQL -->
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="55" height="55" alt="MySQL" />
-	</a>
-	<!-- Postgres -->
-	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-	    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="55" height="55" alt="PostgreSQL" />
-	</a>	
-	<!-- DigitalOcean -->
-	<a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
-	    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="55" height="55" alt="Digital Ocean" />
-	</a>
-	<!-- Docker -->
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="55" height="55" alt="Docker" />
-	</a>
-	<!--Git-->
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-	<!--Linux-->
-	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+    </a>    
+    <!-- SQLite -->
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="55"/>
+<!--Tools-->  
+    <!-- Vim -->
+    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="55"/>
+    <!-- Selenium -->
+    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="55"/>
+    <!-- Postman -->
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="55"/>
+    <!-- Maven -->
+    <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="55"/>
+    <!-- Kafka -->
+    <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="55"/>
+    <!-- Vercel -->
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="55"/>
 </p>
+
 <br/>
 
 ## 📊 Github Stats
