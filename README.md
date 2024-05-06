@@ -137,7 +137,7 @@ I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionat
 <p align="center">
 <img align="center" width="47%" src="https://git-streak-abdellaoui.vercel.app/?user=ilyasabdellaoui&theme=tokyonight" alt="ilyasabdellaoui"/>
 <img align="center" width="45%" src="https://git-stats-abdellaoui.vercel.app/api?username=ilyasabdellaoui&theme=algolia&show_icons=true"/><br><br>
-<img align="center" width="100%" height="200px" src="https://git-stats-abdellaoui.vercel.app/api/top-langs/?username=ilyasabdellaoui&theme=dracula&layout=compact&langs_count=12&hide=OpenEdge%20ABL"/>
+<img align="center" width="100%" height="200px" src="https://git-stats-abdellaoui.vercel.app/api/top-langs/?username=ilyasabdellaoui&theme=dracula&layout=compact&langs_count=12&hide=php,OpenEdge%20ABL"/>
 </p>
 
 ## 🏆 Trophies
