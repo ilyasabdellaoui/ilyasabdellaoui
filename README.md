@@ -23,7 +23,7 @@
 
 <br />
 
-I'm Ilyas, a software engineering student based in Rabat, Morocco. I'm passionate about solving real-world problems with technology and constantly learning and improving my skills. In my free time, I enjoy working on personal projects and contributing to open source projects.
+I’m Ilyas, I work as a Platform Engineer, mostly with Kubernetes and cloud infrastructure. I build tools and platforms to help developers get stuff done without headaches. Just enjoying the ride and learning as I go.
 
 ## Skills
 <p align="center">
