@@ -1,6 +1,6 @@
 # Ilyas ABDELLAOUI
 
-<img src="assets/mario.gif" height="300px" width="1300px"/>
+<img src="assets/mario.gif" width="1920px"/>
 
 ### Hi there 👋
 
