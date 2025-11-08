@@ -15,11 +15,11 @@
   <!--<img src="https://views-counter.vercel.app/badge?pageId=ilyasabdellaoui%2FViews-Counter" alt="Visitor Badge" /> -->
   <img src="https://komarev.com/ghpvc/?username=ilyasabdellaoui" alt="Visitor Badge" />
 </div>
-<p align="center">
+<!--<p align="center">
   <a href="https://info.flagcounter.com/3rL7">
     <img src="https://s01.flagcounter.com/count2/3rL7/bg_303030/txt_FFFFFF/border_3F4D38/columns_8/maxflags_248/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
   </a>
-</p>
+</p>-->
 
 <br />
 
