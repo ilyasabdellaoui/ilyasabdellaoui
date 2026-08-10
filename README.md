@@ -153,5 +153,5 @@ I’m Ilyas, I work as a Platform Engineer, mostly with Kubernetes and cloud inf
 <br/>
 
 ## 💬 Contact me
-Feel free to reach out to me on [Twitter](https://twitter.com/ilyas_abdell) or send me an email at [![Gmail Badge](https://img.shields.io/badge/-ilyas.abdellaoui21@gmail.com-c14438?style=flat&labelColor=db3236&logo=gmail&logoColor=white)](mailto:ilyas.abdellaoui21@gmail.com) for any inquiries or just to chat!
+Feel free to reach out to me on [Twitter](https://twitter.com/ilyas_abdell) for any inquiries or just to chat!
 
